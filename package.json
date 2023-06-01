@@ -1,6 +1,6 @@
 {
   "name": "chartjs-node-canvas",
-  "version": "4.1.6",
+  "version": "4.1.7",
   "description": "A node renderer for Chart.js using canvas.",
   "main": "./dist/index",
   "types": "./dist/index.d.ts",
@@ -46,7 +46,7 @@
     "@types/node": "^16.10.4",
     "@types/offscreencanvas": "^2019.6.4",
     "c8": "^7.10.0",
-    "chart.js": "^3.5.1",
+    "chart.js": "^4.0.0",
     "chartjs-plugin-annotation": "^1.0.2",
     "chartjs-plugin-crosshair": "^1.2.0",
     "chartjs-plugin-datalabels": "^2.0.0",
